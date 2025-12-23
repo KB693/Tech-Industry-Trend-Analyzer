@@ -1,4 +1,4 @@
--- **Tech Industry Trend Analyzer**
+### **Tech Industry Trend Analyzer**
 # Early Signal Intelligence for Emerging Technology Trends
 
 
@@ -133,4 +133,5 @@ Interactive Dashboard (Streamlit)
 ## Status
 
 🚧 **In active development**  
+
 This repository reflects an evolving, research-driven analytics system.
