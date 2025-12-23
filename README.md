@@ -1,5 +1,5 @@
-### **Tech Industry Trend Analyzer**
-# Early Signal Intelligence for Emerging Technology Trends
+# **Tech Industry Trend Analyzer**
+### Early Signal Intelligence for Emerging Technology Trends
 
 
 ## Problem Statement
@@ -61,7 +61,7 @@ All data sources are open and free to use.
 
 ---
 
-## 🧠 High-Level Architecture
+## High-Level Architecture
 
 Data Sources
 ├── arXiv (Research Signal)
@@ -132,6 +132,7 @@ Interactive Dashboard (Streamlit)
 
 ## Status
 
-🚧 **In active development**  
+**In active development**  
 
 This repository reflects an evolving, research-driven analytics system.
+
